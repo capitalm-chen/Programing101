@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2015-09-10</lastmod>
+     <lastmod>2015-09-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,8 +12,20 @@
     
         
     <url>
-     <loc>None/課程/正式開始以前/</loc>
-     <lastmod>2015-09-10</lastmod>
+     <loc>None/課程/1-正式開始以前/</loc>
+     <lastmod>2015-09-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/課程/2-hello-world/</loc>
+     <lastmod>2015-09-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/課程/3-變數/</loc>
+     <lastmod>2015-09-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
